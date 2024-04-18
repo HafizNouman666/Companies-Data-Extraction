@@ -1,4 +1,4 @@
-# Data-Scraping
+# Companies-Data-Scraping
 # CompanyReviewScraper
 
 ## Overview:
